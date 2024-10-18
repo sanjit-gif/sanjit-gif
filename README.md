@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello World! 🌍 SANJIT here. (new born)
 
-<!--
-**sanjit-gif/sanjit-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I'm a first year university student with a passion for coding, creativity, and a little bit of chaos. I thrive on solving problems and bringing ideas to life with Python, HTML, and C++.
 
-Here are some ideas to get you started:
+## 🛠️ My Toolbox
+- **Languages:** 
+  - 🐍 Python 
+  - 💻 C++( on progress)
+  - 🌐 HTML & CSS
+- **Tools:** 
+  - 🔧 Git & GitHub 
+  -  VS code , idle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Journey
+Currently pursuing my degree in computer science(AIML) at PESU . Learning ans sleeping every day!
+
+## 💬 Let’s Connect!
+I'm always open to collaboration, feedback, or just a chat about tech! Reach out to me:
+- **Email:** alpha07701@gmail.com
+
+Thanks for stopping by! 🚀 Let's code something amazing together!
+
+
